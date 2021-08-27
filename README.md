@@ -16,19 +16,31 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
 
     2. Data types
 
-    3. Missing values
+    3. Missing values  
+
+    ![Missing values](netflix_missing_values.png "Missing values")
 
     4. Duplicates
 
 3. **DATA ANALYSIS AND CONCLUSIONS**
 
-    1. How content is distributed ?
+    1. How content is distributed ?  
 
-    2. WHAT ARE THE COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS ?
+    ![Content distribution](netflix_content_distribution.png "Content distribution")
 
-    3. what is the content added in each year ?
 
-    4. what are the ratio of the genres ?
+    2. WHAT ARE THE COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS ?  
+
+    ![COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS](netflix_countries.png "COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS")
+
+
+    3. what is the content added in each year ?  
+
+    ![Content added](netflix_conent_added.png "Content added")
+
+    4. what are the ratio of the genres ?  
+
+    ![genres](netflix_genres.png "genres")
 
 4. **RECOMMENDATION SYSTEM**
 
