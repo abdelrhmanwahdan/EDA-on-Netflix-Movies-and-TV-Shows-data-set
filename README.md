@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows 
 
-![Netflix](netflix.jpg "Netflix")
+![Netflix](images/netflix.jpg "Netflix")
 
 Who doesn’t like Netflix? This dataset on kaggle has tv shows and movies available on Netflix. One can create a good quality Exploratory Data Analysis project using this dataset. Using this dataset, one can find out: what type of content is produced in which country, identify similar content from the description, and much more interesting tasks.  
 So in this project I am doing exploratory data analysis (data cleaning , data proceccing , data visualizations) on this dataset.
@@ -18,7 +18,7 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
 
     3. Missing values  
 
-    ![Missing values](netflix_missing_values.png "Missing values")
+    ![Missing values](images/netflix_missing_values.png "Missing values")
 
     4. Duplicates
 
@@ -26,21 +26,21 @@ So in this project I am doing exploratory data analysis (data cleaning , data pr
 
     1. How content is distributed ?  
 
-    ![Content distribution](netflix_content_distribution.png "Content distribution")
+    ![Content distribution](images/netflix_content_distribution.png "Content distribution")
 
 
     2. WHAT ARE THE COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS ?  
 
-    ![COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS](netflix_countries.png "COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS")
+    ![COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS](images/netflix_countries.png "COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS")
 
 
     3. what is the content added in each year ?  
 
-    ![Content added](netflix_conent_added.png "Content added")
+    ![Content added](images/netflix_conent_added.png "Content added")
 
     4. what are the ratio of the genres ?  
 
-    ![genres](netflix_genres.png "genres")
+    ![genres](images/netflix_genres.png "genres")
 
 4. **RECOMMENDATION SYSTEM**
 
