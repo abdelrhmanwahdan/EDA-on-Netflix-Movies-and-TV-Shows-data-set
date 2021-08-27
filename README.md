@@ -1,4 +1,4 @@
-# Netflix Movies and TV Shows 
+# EDA on Netflix Movies and TV Shows data-set
 
 ![Netflix](images/netflix.jpg "Netflix")
 
